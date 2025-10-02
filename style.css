@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "LaoVannasak5a-Bali";
+    src: url("https://cdn.jsdelivr.net/gh/maiphanvannasak-bit/LaoVannasak@latest/fonts/LaoVannasak5a-Bali.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/maiphanvannasak-bit/LaoVannasak@latest/fonts/LaoVannasak5a-Bali.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
